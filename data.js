@@ -38,6 +38,7 @@ const main = {
   ],
   links: [
     { name: 'Blog', link: 'https://medium.com/@marcosgamedev' },
+    { name: 'Projects', link: 'https://codepen.io/marcosxdeveloper' },
     { name: 'My Resume', link: 'https://marcosxdeveloper.github.io/online-cv' }
   ]
 };

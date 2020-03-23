@@ -6,19 +6,14 @@ const main = {
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
     {
-      name: 'Home',
-      iconName: 'logo-firefox',
-      link: 'https://marcosxdeveloper.github.io'
+      name: 'Facebook',
+      iconName: 'logo-facebook',
+      link: 'https://www.facebook.com/marcosxdeveloper'
     },
     {
-      name: 'Twitter',
-      iconName: 'logo-twitter',
-      link: 'https://twitter.com/marcosgamedev'
-    },
-    {
-      name: 'Medium',
-      iconName: 'logo-medium',
-      link: 'https://medium.com/@marcosgamedev'
+      name: 'Instagram',
+      iconName: 'logo-instagram',
+      link: 'https://www.instagram.com/marcosxdeveloper'
     },
     {
       name: 'Linkedin',
@@ -26,14 +21,14 @@ const main = {
       link: 'https://www.linkedin.com/in/marcosxdeveloper'
     },
     {
+      name: 'Twitter',
+      iconName: 'logo-twitter',
+      link: 'https://twitter.com/marcosgamedev'
+    },
+    {
       name: 'Github',
       iconName: 'logo-github',
       link: 'https://github.com/marcosxdeveloper'
-    },
-    {
-      name: 'StackOverflow',
-      iconName: 'logo-stackoverflow',
-      link: 'https://stackoverflow.com/users/6940525/sivanesh-s'
     },
     {
       name: 'Mail',
@@ -42,7 +37,6 @@ const main = {
     }
   ],
   links: [
-    { name: 'Projects', link: '#projects' },
-    { name: 'Blogs', link: '#blogs' }
+    { name: 'My Resume', link: 'https://marcosxdeveloper.github.io/online-cv' }
   ]
 };

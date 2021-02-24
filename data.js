@@ -39,7 +39,7 @@ const main = {
   links: [
     { name: 'Blog', link: 'https://medium.com/@marcosxgonzalez' },
     { name: 'Projects', link: 'https://codepen.io/marcosxdeveloper' },
-    { name: 'Resume (Old)', link: 'https://marcosxdeveloper.github.io/online-cv' },
+    { name: 'Resume', link: 'https://marcosxdeveloper.github.io/online-cv' },
     { name: 'Resume (New)', link: 'https://marcosxdeveloper.github.io/pillar-resume' }
   ]
 };

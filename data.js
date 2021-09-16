@@ -39,6 +39,6 @@ const main = {
   links: [
     { name: 'Blog', link: 'https://medium.com/@marcosxdeveloper' },
     { name: 'Projects', link: 'https://codepen.io/marcosxdeveloper' },
-    { name: 'Resume', link: 'https://marcosxdeveloper.github.io/linktree-cv' }
+    { name: 'Resume', link: 'https://marcosxdeveloper.github.io/LinkTree/' }
   ]
 };
